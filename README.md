@@ -1,4 +1,4 @@
-# My Habit Tracker
+#  Habit Tracker
 
 A high-quality daily habit tracker built with **Expo** (React Native + Web), featuring streaks, history, and in-app reviews.
 
